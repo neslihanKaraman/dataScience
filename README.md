@@ -1,3 +1,4 @@
 # dataScience
 data science academy
-Hafta-1 görevi tamamlandı.
+Hafta-1 Python'a giriş.
+
