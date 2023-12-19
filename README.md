@@ -7,7 +7,7 @@ Hafta2_3 Numpy intro
 Hafta2_4 Pandas intro                                                                        
 Hafta2_5 Data frame                                                         
 
-Hafta3_1 Iris data set
+Hafta3_1 Iris data set                                                                                                                          
 Hafta3_2 Birds data set                                                                                                                           
 
 Hafta4_1 web scraping with python                                                                                                                  
