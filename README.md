@@ -8,7 +8,7 @@
 **Hafta2_5** Data frame                                                         
 
 **Hafta3_1** Iris data set                                                                                                                        
-**Hafta3_2** Birds data set                                                                                                                        
+**Hafta3_2** Birds data set                                                                                                                       
 
 **Hafta4_1** web scraping with python                                                                                                              
 **Hafta4_2** api
