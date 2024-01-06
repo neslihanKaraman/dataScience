@@ -14,15 +14,11 @@
 **Hafta4_2** api   
                                                         
 
-
-**Hafta6_1** Python for machine learning              
-
-**Hafta6_2** Simple regression                                                     
+**Hafta6_1** Python for machine learning      
+**Hafta6_2** Simple regression                                                
 **Hafta6_3** Regression continue                                               
 
                                                         
 **Hafta7_1** new branch and Model Evaluation in Regression                        
-
 **Hafta7_2** Non-linear regression                                             
-
 **Hafta7_3** Evaluation
